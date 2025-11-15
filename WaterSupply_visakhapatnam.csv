@@ -1,0 +1,75 @@
+City Name,Zone Name,Ward name,Ward No.,Water supply capacity (litres/day),Water usage or Domestic Water Consumption (litres/day),%age of Area with water supply network
+Visakhapatnam,NORTH ,Arilova ,1,2845000,100,85%
+Visakhapatnam,NORTH,Chinagadili,2,2749000,100,85%
+Visakhapatnam,NORTH,Vivekananda Nagar,3,3213000,100,85%
+Visakhapatnam,NORTH,Car Shed Junction,4,2655000,95,85%
+Visakhapatnam,EAST,Madhurawada,5,2673000,95,95%
+Visakhapatnam,EAST,Rushi Konda,6,3345000,100,95%
+Visakhapatnam,EAST,M V P Colony,7,3669000,110,95%   
+Visakhapatnam,NORTH,Venkojipalem,8,3521000,105,100%
+Visakhapatnam,NORTH,Seethammadhara North Extension,9,3301000,100,90%
+Visakhapatnam,EAST,KRM Colony,10,3689000,110,95%
+Visakhapatnam,CENTRAL,P and T Colony,11,3696000,115,95%
+Visakhapatnam,CENTRAL,Akkayyapalem,12,3256000,100,93%
+Visakhapatnam,CENTRAL,Seethampeta Main Road;Near NH-16,13,3285000,100,95%
+Visakhapatnam,EAST,Ramatalkies,14,3320000,110,96%
+Visakhapatnam,CENTRAL,APSRTC Complex,15,3848000,115,98%
+Visakhapatnam,EAST,VIP Road,16,3812000,115,98%
+Visakhapatnam,EAST,Chinnawaltair;Old CBI Down,17,3605000,110,96%
+Visakhapatnam,EAST,R.K. Beach,18,3364000,110,94%
+Visakhapatnam,EAST,Ramnagar,19,3856000,115,92%
+Visakhapatnam,EAST,Prakasa Rao Peta,20,3674000,115,95%
+Visakhapatnam,EAST,K G H Area,21,3056000,105,100%
+Visakhapatnam,EAST,Relli Veedhi,22,3210000,110,100%
+Visakhapatnam,EAST,Town Kotha Road,23,3052000,110,100%
+Visakhapatnam,EAST,Old Municipal Office,24,2887000,105,100%
+Visakhapatnam,EAST,Old Post Office,25,2949000,105,100%
+Visakhapatnam,EAST,Purna Market,26,3478000,110,100%
+Visakhapatnam,EAST,Jagadamba junction,27,3418000,115,100%
+Visakhapatnam,EAST,Neelammavepa chettu,28,3149000,110,100%
+Visakhapatnam,EAST,Convent junction,29,3201000,110,100%
+Visakhapatnam,CENTRAL,Allipuram Gandhi Statue,30,2962000,105,100%
+Visakhapatnam,CENTRAL,Sangam Office Jn (Akkayyapalem),31,2843000,100,100%
+Visakhapatnam,CENTRAL,80feet Road Akkayyapalem,32,3110000,110,90%
+Visakhapatnam,CENTRAL,Thatichetlapalem,33,3176000,105,100%
+Visakhapatnam,NORTH,Port Quaters; Kailasapuram,34,3089000,110,100%
+Visakhapatnam,CENTRAL,Kancharapalem mettu,35,3450000,115,90%
+Visakhapatnam,CENTRAL,Kancharapalem Main Road,36,3630000,115,90%
+Visakhapatnam,NORTH,Urvasi to Kapprada,37,3138000,110,90%
+Visakhapatnam,NORTH,Murali Nagar,38,3497000,110,100%
+Visakhapatnam,NORTH,Madhavadhara Road,39,3256000,105,95%
+Visakhapatnam,WEST,Marripalem; Near 104 Area,40,3597000,110,100%
+Visakhapatnam,CENTRAL,104 Area;ITI Junction,41,3855000,115,100%
+Visakhapatnam,WEST,Karasa,42,3244000,115,100%
+Visakhapatnam,CENTRAL,Gavara Kancharapalem,43,3084000,110,100%
+Visakhapatnam,CENTRAL,Gnanapuram,44,3079000,110,90%
+Visakhapatnam,CENTRAL,Yarada Village,45,3426000,105,90%
+Visakhapatnam,CENTRAL,INS EKASILA Road,46,3296000,100,90%
+Visakhapatnam,SOUTH,VUDA Colony,47,3460000,105,90%
+Visakhapatnam,SOUTH,Malkapuram,48,3432000,110,90%
+Visakhapatnam,SOUTH,Malkapuram Main Road,49,3412000,105,95%
+Visakhapatnam,SOUTH,New Gajuwaka B.C. Road,50,3519351,100,98
+Visakhapatnam,SOUTH,Pedagantyada; Seetha Nagaram,51,2378900,100,100
+Visakhapatnam,SOUTH,Nadupuru,52,2957502,100,95
+Visakhapatnam,SOUTH,Vadlapudi,53,2330342,95,98
+Visakhapatnam,SOUTH,Steel Plant,54,NA,NA,50
+Visakhapatnam,SOUTH,Appikonda,55,10134,NA,50
+Visakhapatnam,WEST,Lankelapalem; Aganampudi Main Road,56,10440.5,NA,50
+Visakhapatnam,WEST,Duvvada; Aganampudi,57,1186860,85,60
+Visakhapatnam,SOUTH,Kurmannapalem,58,2255691.5,90,98
+Visakhapatnam,WEST,Natayyapalem,59,2079110,100,100
+Visakhapatnam,SOUTH,Old Gajuwaka; Drivers Colony,60,2874536,95,98
+Visakhapatnam,SOUTH,Sri Nagar,61,3307010,95,98
+Visakhapatnam,SOUTH,Nehru Nagar; gajuwaka B C Road,62,2343882,90,95
+Visakhapatnam,SOUTH,New Gajuwaka Junction,63,2578070,100,100
+Visakhapatnam,CENTRAL,Old gajuwaka junction,64,2932930,110,100
+Visakhapatnam,WEST,Sheela Nagar,65,2547558,110,95
+Visakhapatnam,WEST,Venkatapuram,66,1763000,95,100
+Visakhapatnam,CENTRAL,NAD kotha road,67,1361800,100,100
+Visakhapatnam,WEST,Gopalapatnam,68,1273800,100,100
+Visakhapatnam,WEST,Vepagunta,69,2822400,95,90
+Visakhapatnam,WEST,Chinamushidiwada,70,5422824,100,90
+Visakhapatnam,NORTH,Pendurthi,71,2885256,100,90
+Visakhapatnam,NORTH,Simhachalam,72,3262072,100,95
+Visakhapatnam,WEST,Anakapalli,98,9870000,97,70%
+Visakhapatnam,NORTH,Bhimili,99,7766000,80,75%
