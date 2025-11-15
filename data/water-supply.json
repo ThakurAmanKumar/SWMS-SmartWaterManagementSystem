@@ -1,0 +1,110 @@
+[
+  {
+    "City Name": "Visakhapatnam",
+    "Zone Name": "NORTH",
+    "Ward name": "Arilova",
+    "Ward No.": 1,
+    "Water supply capacity (litres/day)": 2845000,
+    "Water usage or Domestic Water Consumption (litres/day)": 100,
+    "%age of Area with water supply network": "85"
+  },
+  {
+    "City Name": "Visakhapatnam",
+    "Zone Name": "NORTH",
+    "Ward name": "Chinagadili",
+    "Ward No.": 2,
+    "Water supply capacity (litres/day)": 2749000,
+    "Water usage or Domestic Water Consumption (litres/day)": 100,
+    "%age of Area with water supply network": "85"
+  },
+  {
+    "City Name": "Visakhapatnam",
+    "Zone Name": "NORTH",
+    "Ward name": "Vivekananda Nagar",
+    "Ward No.": 3,
+    "Water supply capacity (litres/day)": 3213000,
+    "Water usage or Domestic Water Consumption (litres/day)": 100,
+    "%age of Area with water supply network": "85"
+  },
+  {
+    "City Name": "Visakhapatnam",
+    "Zone Name": "NORTH",
+    "Ward name": "Car Shed Junction",
+    "Ward No.": 4,
+    "Water supply capacity (litres/day)": 2655000,
+    "Water usage or Domestic Water Consumption (litres/day)": 95,
+    "%age of Area with water supply network": "85"
+  },
+  {
+    "City Name": "Visakhapatnam",
+    "Zone Name": "EAST",
+    "Ward name": "Madhurawada",
+    "Ward No.": 5,
+    "Water supply capacity (litres/day)": 2673000,
+    "Water usage or Domestic Water Consumption (litres/day)": 95,
+    "%age of Area with water supply network": "95"
+  },
+  {
+    "City Name": "Visakhapatnam",
+    "Zone Name": "EAST",
+    "Ward name": "Rushi Konda",
+    "Ward No.": 6,
+    "Water supply capacity (litres/day)": 3345000,
+    "Water usage or Domestic Water Consumption (litres/day)": 100,
+    "%age of Area with water supply network": "95"
+  },
+  {
+    "City Name": "Visakhapatnam",
+    "Zone Name": "EAST",
+    "Ward name": "M V P Colony",
+    "Ward No.": 7,
+    "Water supply capacity (litres/day)": 3669000,
+    "Water usage or Domestic Water Consumption (litres/day)": 110,
+    "%age of Area with water supply network": "95"
+  },
+  {
+    "City Name": "Visakhapatnam",
+    "Zone Name": "NORTH",
+    "Ward name": "Venkojipalem",
+    "Ward No.": 8,
+    "Water supply capacity (litres/day)": 3521000,
+    "Water usage or Domestic Water Consumption (litres/day)": 105,
+    "%age of Area with water supply network": "100"
+  },
+  {
+    "City Name": "Visakhapatnam",
+    "Zone Name": "NORTH",
+    "Ward name": "Seethammadhara North Extension",
+    "Ward No.": 9,
+    "Water supply capacity (litres/day)": 3301000,
+    "Water usage or Domestic Water Consumption (litres/day)": 100,
+    "%age of Area with water supply network": "90"
+  },
+  {
+    "City Name": "Visakhapatnam",
+    "Zone Name": "EAST",
+    "Ward name": "KRM Colony",
+    "Ward No.": 10,
+    "Water supply capacity (litres/day)": 3689000,
+    "Water usage or Domestic Water Consumption (litres/day)": 110,
+    "%age of Area with water supply network": "95"
+  },
+  {
+    "City Name": "Visakhapatnam",
+    "Zone Name": "CENTRAL",
+    "Ward name": "P and T Colony",
+    "Ward No.": 11,
+    "Water supply capacity (litres/day)": 3696000,
+    "Water usage or Domestic Water Consumption (litres/day)": 115,
+    "%age of Area with water supply network": "95"
+  },
+  {
+    "City Name": "Visakhapatnam",
+    "Zone Name": "CENTRAL",
+    "Ward name": "Akkayyapalem",
+    "Ward No.": 12,
+    "Water supply capacity (litres/day)": 3256000,
+    "Water usage or Domestic Water Consumption (litres/day)": 100,
+    "%age of Area with water supply network": "93"
+  }
+]

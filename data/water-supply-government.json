@@ -1,0 +1,668 @@
+[
+  {
+    "city": "Visakhapatnam",
+    "zone": "NORTH",
+    "wardName": "Arilova",
+    "wardNo": 1,
+    "capacity": 2845000,
+    "consumption": 100,
+    "coverage": "85%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "NORTH",
+    "wardName": "Chinagadili",
+    "wardNo": 2,
+    "capacity": 2749000,
+    "consumption": 100,
+    "coverage": "85%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "NORTH",
+    "wardName": "Vivekananda Nagar",
+    "wardNo": 3,
+    "capacity": 3213000,
+    "consumption": 100,
+    "coverage": "85%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "NORTH",
+    "wardName": "Car Shed Junction",
+    "wardNo": 4,
+    "capacity": 2655000,
+    "consumption": 95,
+    "coverage": "85%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "EAST",
+    "wardName": "Madhurawada",
+    "wardNo": 5,
+    "capacity": 2673000,
+    "consumption": 95,
+    "coverage": "95%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "EAST",
+    "wardName": "Rushi Konda",
+    "wardNo": 6,
+    "capacity": 3345000,
+    "consumption": 100,
+    "coverage": "95%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "EAST",
+    "wardName": "M V P Colony",
+    "wardNo": 7,
+    "capacity": 3669000,
+    "consumption": 110,
+    "coverage": "95%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "NORTH",
+    "wardName": "Venkojipalem",
+    "wardNo": 8,
+    "capacity": 3521000,
+    "consumption": 105,
+    "coverage": "100%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "NORTH",
+    "wardName": "Seethammadhara North Extension",
+    "wardNo": 9,
+    "capacity": 3301000,
+    "consumption": 100,
+    "coverage": "90%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "EAST",
+    "wardName": "KRM Colony",
+    "wardNo": 10,
+    "capacity": 3689000,
+    "consumption": 110,
+    "coverage": "95%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "CENTRAL",
+    "wardName": "P and T Colony",
+    "wardNo": 11,
+    "capacity": 3696000,
+    "consumption": 115,
+    "coverage": "95%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "CENTRAL",
+    "wardName": "Akkayyapalem",
+    "wardNo": 12,
+    "capacity": 3256000,
+    "consumption": 100,
+    "coverage": "93%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "CENTRAL",
+    "wardName": "Seethampeta Main Road",
+    "wardNo": 13,
+    "capacity": 3285000,
+    "consumption": 100,
+    "coverage": "95%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "EAST",
+    "wardName": "Ramatalkies",
+    "wardNo": 14,
+    "capacity": 3320000,
+    "consumption": 110,
+    "coverage": "96%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "CENTRAL",
+    "wardName": "APSRTC Complex",
+    "wardNo": 15,
+    "capacity": 3848000,
+    "consumption": 115,
+    "coverage": "98%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "EAST",
+    "wardName": "VIP Road",
+    "wardNo": 16,
+    "capacity": 3812000,
+    "consumption": 115,
+    "coverage": "98%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "EAST",
+    "wardName": "Chinnawaltair",
+    "wardNo": 17,
+    "capacity": 3605000,
+    "consumption": 110,
+    "coverage": "96%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "EAST",
+    "wardName": "R.K. Beach",
+    "wardNo": 18,
+    "capacity": 3364000,
+    "consumption": 110,
+    "coverage": "94%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "EAST",
+    "wardName": "Ramnagar",
+    "wardNo": 19,
+    "capacity": 3856000,
+    "consumption": 115,
+    "coverage": "92%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "EAST",
+    "wardName": "Prakasa Rao Peta",
+    "wardNo": 20,
+    "capacity": 3674000,
+    "consumption": 115,
+    "coverage": "95%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "EAST",
+    "wardName": "K G H Area",
+    "wardNo": 21,
+    "capacity": 3056000,
+    "consumption": 105,
+    "coverage": "100%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "EAST",
+    "wardName": "Relli Veedhi",
+    "wardNo": 22,
+    "capacity": 3210000,
+    "consumption": 110,
+    "coverage": "100%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "EAST",
+    "wardName": "Town Kotha Road",
+    "wardNo": 23,
+    "capacity": 3052000,
+    "consumption": 110,
+    "coverage": "100%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "EAST",
+    "wardName": "Old Municipal Office",
+    "wardNo": 24,
+    "capacity": 2887000,
+    "consumption": 105,
+    "coverage": "100%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "EAST",
+    "wardName": "Old Post Office",
+    "wardNo": 25,
+    "capacity": 2949000,
+    "consumption": 105,
+    "coverage": "100%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "EAST",
+    "wardName": "Purna Market",
+    "wardNo": 26,
+    "capacity": 3478000,
+    "consumption": 110,
+    "coverage": "100%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "EAST",
+    "wardName": "Jagadamba junction",
+    "wardNo": 27,
+    "capacity": 3418000,
+    "consumption": 115,
+    "coverage": "100%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "EAST",
+    "wardName": "Neelammavepa chettu",
+    "wardNo": 28,
+    "capacity": 3149000,
+    "consumption": 110,
+    "coverage": "100%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "EAST",
+    "wardName": "Convent junction",
+    "wardNo": 29,
+    "capacity": 3201000,
+    "consumption": 110,
+    "coverage": "100%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "CENTRAL",
+    "wardName": "Allipuram Gandhi Statue",
+    "wardNo": 30,
+    "capacity": 2962000,
+    "consumption": 105,
+    "coverage": "100%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "CENTRAL",
+    "wardName": "Sangam Office Jn",
+    "wardNo": 31,
+    "capacity": 2843000,
+    "consumption": 100,
+    "coverage": "100%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "CENTRAL",
+    "wardName": "80feet Road Akkayyapalem",
+    "wardNo": 32,
+    "capacity": 3110000,
+    "consumption": 110,
+    "coverage": "90%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "CENTRAL",
+    "wardName": "Thatichetlapalem",
+    "wardNo": 33,
+    "capacity": 3176000,
+    "consumption": 105,
+    "coverage": "100%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "NORTH",
+    "wardName": "Port Quaters Kailasapuram",
+    "wardNo": 34,
+    "capacity": 3089000,
+    "consumption": 110,
+    "coverage": "100%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "CENTRAL",
+    "wardName": "Kancharapalem mettu",
+    "wardNo": 35,
+    "capacity": 3450000,
+    "consumption": 115,
+    "coverage": "90%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "CENTRAL",
+    "wardName": "Kancharapalem Main Road",
+    "wardNo": 36,
+    "capacity": 3630000,
+    "consumption": 115,
+    "coverage": "90%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "NORTH",
+    "wardName": "Urvasi to Kapprada",
+    "wardNo": 37,
+    "capacity": 3138000,
+    "consumption": 110,
+    "coverage": "90%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "NORTH",
+    "wardName": "Murali Nagar",
+    "wardNo": 38,
+    "capacity": 3497000,
+    "consumption": 110,
+    "coverage": "100%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "NORTH",
+    "wardName": "Madhavadhara Road",
+    "wardNo": 39,
+    "capacity": 3256000,
+    "consumption": 105,
+    "coverage": "95%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "WEST",
+    "wardName": "Marripalem",
+    "wardNo": 40,
+    "capacity": 3597000,
+    "consumption": 110,
+    "coverage": "100%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "CENTRAL",
+    "wardName": "104 Area ITI Junction",
+    "wardNo": 41,
+    "capacity": 3855000,
+    "consumption": 115,
+    "coverage": "100%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "WEST",
+    "wardName": "Karasa",
+    "wardNo": 42,
+    "capacity": 3244000,
+    "consumption": 115,
+    "coverage": "100%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "CENTRAL",
+    "wardName": "Gavara Kancharapalem",
+    "wardNo": 43,
+    "capacity": 3084000,
+    "consumption": 110,
+    "coverage": "100%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "CENTRAL",
+    "wardName": "Gnanapuram",
+    "wardNo": 44,
+    "capacity": 3079000,
+    "consumption": 110,
+    "coverage": "90%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "CENTRAL",
+    "wardName": "Yarada Village",
+    "wardNo": 45,
+    "capacity": 3426000,
+    "consumption": 105,
+    "coverage": "90%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "CENTRAL",
+    "wardName": "INS EKASILA Road",
+    "wardNo": 46,
+    "capacity": 3296000,
+    "consumption": 100,
+    "coverage": "90%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "SOUTH",
+    "wardName": "VUDA Colony",
+    "wardNo": 47,
+    "capacity": 3460000,
+    "consumption": 105,
+    "coverage": "90%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "SOUTH",
+    "wardName": "Malkapuram",
+    "wardNo": 48,
+    "capacity": 3432000,
+    "consumption": 110,
+    "coverage": "90%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "SOUTH",
+    "wardName": "Malkapuram Main Road",
+    "wardNo": 49,
+    "capacity": 3412000,
+    "consumption": 105,
+    "coverage": "95%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "SOUTH",
+    "wardName": "New Gajuwaka B.C. Road",
+    "wardNo": 50,
+    "capacity": 3519351,
+    "consumption": 100,
+    "coverage": "98%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "SOUTH",
+    "wardName": "Pedagantyada Seetha Nagaram",
+    "wardNo": 51,
+    "capacity": 2378900,
+    "consumption": 100,
+    "coverage": "100%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "SOUTH",
+    "wardName": "Nadupuru",
+    "wardNo": 52,
+    "capacity": 2957502,
+    "consumption": 100,
+    "coverage": "95%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "SOUTH",
+    "wardName": "Vadlapudi",
+    "wardNo": 53,
+    "capacity": 2330342,
+    "consumption": 95,
+    "coverage": "98%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "SOUTH",
+    "wardName": "Steel Plant",
+    "wardNo": 54,
+    "capacity": 0,
+    "consumption": 0,
+    "coverage": "50%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "SOUTH",
+    "wardName": "Appikonda",
+    "wardNo": 55,
+    "capacity": 10134,
+    "consumption": 0,
+    "coverage": "50%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "WEST",
+    "wardName": "Lankelapalem Aganampudi Main Road",
+    "wardNo": 56,
+    "capacity": 10440,
+    "consumption": 0,
+    "coverage": "50%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "WEST",
+    "wardName": "Duvvada Aganampudi",
+    "wardNo": 57,
+    "capacity": 1186860,
+    "consumption": 85,
+    "coverage": "60%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "SOUTH",
+    "wardName": "Kurmannapalem",
+    "wardNo": 58,
+    "capacity": 2255691,
+    "consumption": 90,
+    "coverage": "98%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "WEST",
+    "wardName": "Natayyapalem",
+    "wardNo": 59,
+    "capacity": 2079110,
+    "consumption": 100,
+    "coverage": "100%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "SOUTH",
+    "wardName": "Old Gajuwaka Drivers Colony",
+    "wardNo": 60,
+    "capacity": 2874536,
+    "consumption": 95,
+    "coverage": "98%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "SOUTH",
+    "wardName": "Sri Nagar",
+    "wardNo": 61,
+    "capacity": 3307010,
+    "consumption": 95,
+    "coverage": "98%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "SOUTH",
+    "wardName": "Nehru Nagar Gajuwaka B C Road",
+    "wardNo": 62,
+    "capacity": 2343882,
+    "consumption": 90,
+    "coverage": "95%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "SOUTH",
+    "wardName": "New Gajuwaka Junction",
+    "wardNo": 63,
+    "capacity": 2578070,
+    "consumption": 100,
+    "coverage": "100%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "CENTRAL",
+    "wardName": "Old gajuwaka junction",
+    "wardNo": 64,
+    "capacity": 2932930,
+    "consumption": 110,
+    "coverage": "100%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "WEST",
+    "wardName": "Sheela Nagar",
+    "wardNo": 65,
+    "capacity": 2547558,
+    "consumption": 110,
+    "coverage": "95%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "WEST",
+    "wardName": "Venkatapuram",
+    "wardNo": 66,
+    "capacity": 1763000,
+    "consumption": 95,
+    "coverage": "100%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "CENTRAL",
+    "wardName": "NAD kotha road",
+    "wardNo": 67,
+    "capacity": 1361800,
+    "consumption": 100,
+    "coverage": "100%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "WEST",
+    "wardName": "Gopalapatnam",
+    "wardNo": 68,
+    "capacity": 1273800,
+    "consumption": 100,
+    "coverage": "100%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "WEST",
+    "wardName": "Vepagunta",
+    "wardNo": 69,
+    "capacity": 2822400,
+    "consumption": 95,
+    "coverage": "90%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "WEST",
+    "wardName": "Chinamushidiwada",
+    "wardNo": 70,
+    "capacity": 5422824,
+    "consumption": 100,
+    "coverage": "90%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "NORTH",
+    "wardName": "Pendurthi",
+    "wardNo": 71,
+    "capacity": 2885256,
+    "consumption": 100,
+    "coverage": "90%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "NORTH",
+    "wardName": "Simhachalam",
+    "wardNo": 72,
+    "capacity": 3262072,
+    "consumption": 100,
+    "coverage": "95%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "WEST",
+    "wardName": "Anakapalli",
+    "wardNo": 73,
+    "capacity": 9870000,
+    "consumption": 97,
+    "coverage": "70%"
+  },
+  {
+    "city": "Visakhapatnam",
+    "zone": "NORTH",
+    "wardName": "Bhimili",
+    "wardNo": 74,
+    "capacity": 7766000,
+    "consumption": 80,
+    "coverage": "75%"
+  }
+]

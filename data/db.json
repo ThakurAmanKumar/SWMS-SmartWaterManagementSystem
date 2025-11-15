@@ -1,0 +1,441 @@
+{
+  "users": [
+    {
+      "id": "user_001",
+      "name": "Rajesh Kumar",
+      "email": "rajesh@gmail.com",
+      "password": "user123",
+      "role": "user",
+      "phone": "+91-9876543210",
+      "address": "Visakhapatnam, Andhra Pradesh",
+      "tankCapacity": 1000,
+      "autoThreshold": 80,
+      "notificationsEnabled": true,
+      "createdAt": "2024-01-15",
+      "status": "active"
+    },
+    {
+      "id": "user_002",
+      "name": "Priya Sharma",
+      "email": "priya@gmail.com",
+      "password": "user123",
+      "role": "user",
+      "phone": "+91-9876543211",
+      "address": "EAST Zone, Visakhapatnam",
+      "tankCapacity": 800,
+      "autoThreshold": 75,
+      "notificationsEnabled": true,
+      "createdAt": "2024-02-10",
+      "status": "active"
+    },
+    {
+      "id": "user_003",
+      "name": "Amit Patel",
+      "email": "amit@gmail.com",
+      "password": "user123",
+      "role": "user",
+      "phone": "+91-9876543212",
+      "address": "CENTRAL Zone, Visakhapatnam",
+      "tankCapacity": 1200,
+      "autoThreshold": 85,
+      "notificationsEnabled": false,
+      "createdAt": "2024-01-20",
+      "status": "active"
+    },
+    {
+      "id": "admin_001",
+      "name": "Admin User",
+      "email": "admin@swms.com",
+      "password": "admin123",
+      "role": "admin",
+      "phone": "+91-9800000000",
+      "address": "SWMS Headquarters",
+      "createdAt": "2023-12-01",
+      "status": "active"
+    }
+  ],
+  "devices": [
+    {
+      "id": "device_001",
+      "userId": "user_001",
+      "deviceName": "Main Tank Sensor",
+      "deviceType": "tank_level_sensor",
+      "location": "Tank Room",
+      "status": "active",
+      "lastPing": "2025-01-15T10:45:00Z",
+      "tankLevel": 850,
+      "tankCapacity": 1000,
+      "motorStatus": "running",
+      "flowRate": 0,
+      "leakDetected": false,
+      "batteryLevel": 95,
+      "installDate": "2024-01-15",
+      "approvalStatus": "approved"
+    },
+    {
+      "id": "device_002",
+      "userId": "user_001",
+      "deviceName": "Kitchen Tap Sensor",
+      "deviceType": "flow_sensor",
+      "location": "Kitchen",
+      "status": "active",
+      "lastPing": "2025-01-15T10:43:00Z",
+      "flowRate": 2.5,
+      "leakDetected": false,
+      "batteryLevel": 85,
+      "installDate": "2024-02-10",
+      "approvalStatus": "approved"
+    },
+    {
+      "id": "device_003",
+      "userId": "user_001",
+      "deviceName": "Bathroom Tap Sensor",
+      "deviceType": "flow_sensor",
+      "location": "Bathroom",
+      "status": "active",
+      "lastPing": "2025-01-15T10:42:00Z",
+      "flowRate": 0,
+      "leakDetected": false,
+      "batteryLevel": 78,
+      "installDate": "2024-02-15",
+      "approvalStatus": "approved"
+    },
+    {
+      "id": "device_004",
+      "userId": "user_002",
+      "deviceName": "Main Tank Sensor",
+      "deviceType": "tank_level_sensor",
+      "location": "Tank Room",
+      "status": "active",
+      "lastPing": "2025-01-15T10:40:00Z",
+      "tankLevel": 650,
+      "tankCapacity": 800,
+      "motorStatus": "idle",
+      "flowRate": 0,
+      "leakDetected": false,
+      "batteryLevel": 92,
+      "installDate": "2024-03-10",
+      "approvalStatus": "approved"
+    },
+    {
+      "id": "device_005",
+      "userId": "user_003",
+      "deviceName": "Main Tank Sensor",
+      "deviceType": "tank_level_sensor",
+      "location": "Tank Room",
+      "status": "offline",
+      "lastPing": "2025-01-14T22:15:00Z",
+      "tankLevel": 950,
+      "tankCapacity": 1200,
+      "motorStatus": "unknown",
+      "flowRate": 0,
+      "leakDetected": false,
+      "batteryLevel": 30,
+      "installDate": "2024-01-20",
+      "approvalStatus": "approved"
+    }
+  ],
+  "requests": [
+    {
+      "id": "req_001",
+      "userId": "user_001",
+      "deviceType": "flow_sensor",
+      "location": "Outdoor Garden",
+      "quantity": 1,
+      "status": "pending",
+      "requestDate": "2025-01-10",
+      "adminResponse": "",
+      "responseDate": null
+    },
+    {
+      "id": "req_002",
+      "userId": "user_002",
+      "deviceType": "tank_level_sensor",
+      "location": "Second Tank",
+      "quantity": 1,
+      "status": "approved",
+      "requestDate": "2025-01-05",
+      "adminResponse": "Request approved. Device will be installed by Jan 20.",
+      "responseDate": "2025-01-07"
+    },
+    {
+      "id": "req_003",
+      "userId": "user_003",
+      "deviceType": "leak_detection_sensor",
+      "location": "Pipes",
+      "quantity": 3,
+      "status": "rejected",
+      "requestDate": "2025-01-08",
+      "adminResponse": "Device type not available. Please request tank_level_sensor or flow_sensor.",
+      "responseDate": "2025-01-09"
+    }
+  ],
+  "alerts": [
+    {
+      "id": "alert_001",
+      "userId": "user_001",
+      "deviceId": "device_001",
+      "type": "system",
+      "severity": "critical",
+      "title": "Tank 90% Full",
+      "message": "Main Tank Sensor is at 90% capacity. Auto shutoff will activate in 2 minutes.",
+      "timestamp": "2025-01-15T10:45:00Z",
+      "status": "unresolved",
+      "actionTaken": ""
+    },
+    {
+      "id": "alert_002",
+      "userId": "user_001",
+      "deviceId": "device_002",
+      "type": "water",
+      "severity": "warning",
+      "title": "High Flow Rate",
+      "message": "Kitchen Tap has unusually high flow rate (2.5 L/min). Check for leaks.",
+      "timestamp": "2025-01-15T10:40:00Z",
+      "status": "unresolved",
+      "actionTaken": ""
+    },
+    {
+      "id": "alert_003",
+      "userId": "user_003",
+      "deviceId": "device_005",
+      "type": "device",
+      "severity": "critical",
+      "title": "Device Offline",
+      "message": "Main Tank Sensor is offline. Last ping: 12 hours ago. Battery may be low.",
+      "timestamp": "2025-01-15T10:30:00Z",
+      "status": "unresolved",
+      "actionTaken": ""
+    },
+    {
+      "id": "alert_004",
+      "userId": "user_002",
+      "deviceId": "device_004",
+      "type": "info",
+      "severity": "info",
+      "title": "Daily Summary",
+      "message": "Your water consumption today: 95 liters. Within normal limits.",
+      "timestamp": "2025-01-15T08:00:00Z",
+      "status": "resolved",
+      "actionTaken": "Viewed"
+    }
+  ],
+  "usage_logs": [
+    {
+      "id": "usage_001",
+      "userId": "user_001",
+      "deviceId": "device_001",
+      "date": "2025-01-15",
+      "totalUsage": 125,
+      "morningUsage": 35,
+      "afternoonUsage": 45,
+      "eveningUsage": 45,
+      "hourlyData": [
+        { "hour": 0, "usage": 0 },
+        { "hour": 1, "usage": 0 },
+        { "hour": 6, "usage": 15 },
+        { "hour": 7, "usage": 20 },
+        { "hour": 12, "usage": 25 },
+        { "hour": 13, "usage": 20 },
+        { "hour": 18, "usage": 30 },
+        { "hour": 19, "usage": 15 }
+      ]
+    },
+    {
+      "id": "usage_002",
+      "userId": "user_001",
+      "deviceId": "device_001",
+      "date": "2025-01-14",
+      "totalUsage": 110,
+      "morningUsage": 30,
+      "afternoonUsage": 40,
+      "eveningUsage": 40
+    },
+    {
+      "id": "usage_003",
+      "userId": "user_001",
+      "deviceId": "device_001",
+      "date": "2025-01-13",
+      "totalUsage": 135,
+      "morningUsage": 40,
+      "afternoonUsage": 50,
+      "eveningUsage": 45
+    },
+    {
+      "id": "usage_004",
+      "userId": "user_002",
+      "deviceId": "device_004",
+      "date": "2025-01-15",
+      "totalUsage": 95,
+      "morningUsage": 25,
+      "afternoonUsage": 35,
+      "eveningUsage": 35
+    }
+  ],
+  "complaints": [
+    {
+      "id": "complaint_001",
+      "userId": "user_001",
+      "type": "leak",
+      "title": "Water Leak in Bathroom",
+      "description": "There's a water leak under the sink cabinet. Water is pooling.",
+      "photo": "/placeholder.svg?height=200&width=200",
+      "status": "open",
+      "createdAt": "2025-01-10",
+      "adminResponse": "",
+      "responseDate": null
+    },
+    {
+      "id": "complaint_002",
+      "userId": "user_002",
+      "type": "device_malfunction",
+      "title": "Tank Sensor Not Responding",
+      "description": "Main tank sensor has stopped responding to queries. Shows offline.",
+      "photo": null,
+      "status": "in_progress",
+      "createdAt": "2025-01-12",
+      "adminResponse": "We've sent a technician. Expected visit within 2 days.",
+      "responseDate": "2025-01-13"
+    },
+    {
+      "id": "complaint_003",
+      "userId": "user_001",
+      "type": "billing",
+      "title": "Incorrect Usage Billing",
+      "description": "January bill shows 500L usage but my device shows only 350L. Please verify.",
+      "photo": null,
+      "status": "resolved",
+      "createdAt": "2025-01-08",
+      "adminResponse": "Apologize for the error. Corrected in February billing. Refund processed.",
+      "responseDate": "2025-01-11"
+    }
+  ],
+  "chats": [
+    {
+      "id": "chat_001",
+      "userId": "user_001",
+      "adminId": "admin_001",
+      "messages": [
+        {
+          "id": "msg_001",
+          "sender": "user_001",
+          "senderName": "Rajesh Kumar",
+          "message": "Hi, my tank sensor is showing strange readings. Can you help?",
+          "timestamp": "2025-01-15T09:00:00Z",
+          "read": true
+        },
+        {
+          "id": "msg_002",
+          "sender": "admin_001",
+          "senderName": "Admin Support",
+          "message": "Hello Rajesh! I can help. Can you provide the device ID?",
+          "timestamp": "2025-01-15T09:05:00Z",
+          "read": true
+        },
+        {
+          "id": "msg_003",
+          "sender": "user_001",
+          "senderName": "Rajesh Kumar",
+          "message": "Device ID is device_001. It keeps fluctuating between 85% and 95%.",
+          "timestamp": "2025-01-15T09:08:00Z",
+          "read": true
+        }
+      ]
+    },
+    {
+      "id": "chat_002",
+      "userId": "user_002",
+      "adminId": "admin_001",
+      "messages": [
+        {
+          "id": "msg_004",
+          "sender": "user_002",
+          "senderName": "Priya Sharma",
+          "message": "When will my device request be approved?",
+          "timestamp": "2025-01-15T10:00:00Z",
+          "read": false
+        }
+      ]
+    }
+  ],
+  "water_supply_data": [
+    {
+      "id": 1,
+      "cityName": "Visakhapatnam",
+      "zoneName": "NORTH",
+      "wardName": "Arilova",
+      "wardNo": 1,
+      "capacity": 2845000,
+      "usage": 100,
+      "coverage": 85,
+      "status": "active",
+      "contact": "+91-8712-345678",
+      "lastUpdated": "2025-01-15"
+    },
+    {
+      "id": 2,
+      "cityName": "Visakhapatnam",
+      "zoneName": "NORTH",
+      "wardName": "Chinagadili",
+      "wardNo": 2,
+      "capacity": 2749000,
+      "usage": 100,
+      "coverage": 85,
+      "status": "active",
+      "contact": "+91-8712-345679",
+      "lastUpdated": "2025-01-15"
+    },
+    {
+      "id": 3,
+      "cityName": "Visakhapatnam",
+      "zoneName": "EAST",
+      "wardName": "Madhurawada",
+      "wardNo": 5,
+      "capacity": 2673000,
+      "usage": 95,
+      "coverage": 95,
+      "status": "active",
+      "contact": "+91-8712-345680",
+      "lastUpdated": "2025-01-15"
+    },
+    {
+      "id": 4,
+      "cityName": "Visakhapatnam",
+      "zoneName": "CENTRAL",
+      "wardName": "P and T Colony",
+      "wardNo": 11,
+      "capacity": 3696000,
+      "usage": 115,
+      "coverage": 95,
+      "status": "active",
+      "contact": "+91-8712-345681",
+      "lastUpdated": "2025-01-15"
+    },
+    {
+      "id": 5,
+      "cityName": "Visakhapatnam",
+      "zoneName": "SOUTH",
+      "wardName": "Gajuwaka",
+      "wardNo": 50,
+      "capacity": 3519351,
+      "usage": 100,
+      "coverage": 98,
+      "status": "active",
+      "contact": "+91-8712-345682",
+      "lastUpdated": "2025-01-15"
+    },
+    {
+      "id": 6,
+      "cityName": "Visakhapatnam",
+      "zoneName": "WEST",
+      "wardName": "Chinamushidiwada",
+      "wardNo": 70,
+      "capacity": 5422824,
+      "usage": 100,
+      "coverage": 90,
+      "status": "active",
+      "contact": "+91-8712-345683",
+      "lastUpdated": "2025-01-15"
+    }
+  ]
+}
